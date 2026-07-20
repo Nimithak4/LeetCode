@@ -10,5 +10,5 @@ def two_sum(nums, target)
         end
         hash[n] = i
     end
-    nil
+    nil #nil
 end
